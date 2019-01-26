@@ -7,7 +7,7 @@ import torch.nn.functional as F
 
 # TODO: Feel free to try out your own images here by changing img_path
 # to a file path to another image on your computer!
-img_path = 'Brain/Test/001.png'
+img_path = 'Brain/001.png'
 
 # load color image 
 bgr_img = cv2.imread(img_path)
